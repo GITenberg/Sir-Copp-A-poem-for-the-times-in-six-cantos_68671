@@ -1,5 +1,8 @@
 _repo: Sir-Copp-A-poem-for-the-times-in-six-cantos_68671
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68671-h/images/cover.jpg
 creator:
   author:
     agent_name: Clarke, Thomas Curtis
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47848'
     url: http://www.gutenberg.org/2009/agents/47848
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68671#Sir-Copp-A-poem-for-the-times-in-six-cantos
 gutenberg_issued: '2022-08-03'
 identifiers:
   gutenberg: '68671'
