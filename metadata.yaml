@@ -1,0 +1,29 @@
+_repo: Sir-Copp-A-poem-for-the-times-in-six-cantos_68671
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clarke, Thomas Curtis
+    alias: Clarke, Thomas C.
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '47848'
+    url: http://www.gutenberg.org/2009/agents/47848
+description: ''
+gutenberg_issued: '2022-08-03'
+identifiers:
+  gutenberg: '68671'
+language: en
+pgterms:marc904: https://archive.org/details/sircopppoemforti00inclar
+pgterms:marc905: 20210711015908clarke
+pgterms:marc906: '1867'
+pgterms:marc907: us
+production_note: Sonya Schermann and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Geo. W. Clarke,1867.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sir Copp: A poem for the times, in six cantos'
+url: http://www.gutenberg.org/ebooks/68671
